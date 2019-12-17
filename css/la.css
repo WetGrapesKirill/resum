@@ -1,0 +1,11 @@
+body {
+    margin:0 ;
+    font-family: 'Monserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+}
+.container {
+    width:100%;
+    max-width: 1200px;
+    margin: 0 auto ;
+}
